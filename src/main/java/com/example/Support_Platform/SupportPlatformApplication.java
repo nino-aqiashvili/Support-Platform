@@ -8,6 +8,7 @@ public class SupportPlatformApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SupportPlatformApplication.class, args);
+
 	}
 
 }
